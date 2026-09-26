@@ -41,5 +41,5 @@ elif user_input == 1:
     day_now = int(input("Enter present Day:")) #Asking for input for ongoing day.
     year_birth  = int(input("Enter your birth year:")) #Asking for input for birth year.
     month_birth = int(input("Enter your birth Month:")) #Asking for input for birth month.
-    day_birth = int(input("Enter your Birth Bay:")) #Asking for input for birth day.
+    day_birth = int(input("Enter your Birth Day:")) #Asking for input for birth day.
     age_calculation_student_data(year_now , month_now , day_now , year_birth ,month_birth , day_birth)
