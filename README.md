@@ -21,5 +21,5 @@ Age & DOB Calculator is a Python-based command-line utility designed to perform 
 ## Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/vit-prashantsingh/AGE-DOB-Calculator.git](https://github.com/vit-prashantsingh/AGE-DOB-Calculator.git)
-   cd your-repo-name
+   git clone [https://github.com/vit-prashantsingh/AGE-DOB-Calculator.git]
+   cd AGE-DOB-Calculator
